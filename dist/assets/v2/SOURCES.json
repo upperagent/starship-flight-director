@@ -1,0 +1,231 @@
+{
+  "retrieved": "2026-10-03",
+  "assets": [
+    {
+      "file": "concrete-color.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_worn_001/concrete_floor_worn_001_diff_1k.jpg",
+      "md5": "e35597cca586150b1ab2aa9a331a39c5",
+      "source": "https://polyhaven.com/a/concrete_floor_worn_001",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "color",
+      "bytes": 118806
+    },
+    {
+      "file": "concrete-normal.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_worn_001/concrete_floor_worn_001_nor_gl_1k.jpg",
+      "md5": "9de6626758f8793b71182b892c110827",
+      "source": "https://polyhaven.com/a/concrete_floor_worn_001",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "normal",
+      "bytes": 110906
+    },
+    {
+      "file": "concrete-roughness.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_worn_001/concrete_floor_worn_001_rough_1k.jpg",
+      "md5": "b158eae73029ac6a849481274a0e1b35",
+      "source": "https://polyhaven.com/a/concrete_floor_worn_001",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "roughness",
+      "bytes": 181942
+    },
+    {
+      "file": "asphalt-color.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg",
+      "md5": "fa19772d4817754c3efab708c651f5a8",
+      "source": "https://polyhaven.com/a/asphalt_02",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "color",
+      "bytes": 731707
+    },
+    {
+      "file": "asphalt-normal.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_nor_gl_1k.jpg",
+      "md5": "338da8de636ea36133170578cac82e8e",
+      "source": "https://polyhaven.com/a/asphalt_02",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "normal",
+      "bytes": 1240122
+    },
+    {
+      "file": "asphalt-roughness.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_rough_1k.jpg",
+      "md5": "ec80a2929797c1b3ffc121c4f665585a",
+      "source": "https://polyhaven.com/a/asphalt_02",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "roughness",
+      "bytes": 544032
+    },
+    {
+      "file": "gravel-color.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_floor/gravel_floor_diff_1k.jpg",
+      "md5": "4f055e1545dcf41f347600fbb01d9ac2",
+      "source": "https://polyhaven.com/a/gravel_floor",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "color",
+      "bytes": 1327302
+    },
+    {
+      "file": "gravel-normal.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_floor/gravel_floor_nor_gl_1k.jpg",
+      "md5": "2377939c71250cf32f8b842bc4f3fe82",
+      "source": "https://polyhaven.com/a/gravel_floor",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "normal",
+      "bytes": 1538430
+    },
+    {
+      "file": "gravel-roughness.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/gravel_floor/gravel_floor_rough_1k.jpg",
+      "md5": "06a97bcb5cfaaa17456282237f9446eb",
+      "source": "https://polyhaven.com/a/gravel_floor",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "roughness",
+      "bytes": 697340
+    },
+    {
+      "file": "metal-color.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/metal_plate/metal_plate_diff_1k.jpg",
+      "md5": "bd9daf4c04046ca392a38b8df955ed26",
+      "source": "https://polyhaven.com/a/metal_plate",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "color",
+      "bytes": 692234
+    },
+    {
+      "file": "metal-normal.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/metal_plate/metal_plate_nor_gl_1k.jpg",
+      "md5": "d379e66130ad6ccff217ac9b13de935d",
+      "source": "https://polyhaven.com/a/metal_plate",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "normal",
+      "bytes": 770307
+    },
+    {
+      "file": "metal-roughness.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/metal_plate/metal_plate_rough_1k.jpg",
+      "md5": "6e1c8672d804b90546a23db621515b16",
+      "source": "https://polyhaven.com/a/metal_plate",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "roughness",
+      "bytes": 775206
+    },
+    {
+      "file": "sky-sunset-2k.hdr",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/belfast_sunset_puresky_2k.hdr",
+      "md5": "4bb56d6163ef1c7ec762e4a7ef8ede81",
+      "source": "https://polyhaven.com/a/belfast_sunset_puresky",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "environment",
+      "bytes": 4563204
+    },
+    {
+      "file": "sky-sunset-4k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/belfast_sunset_puresky.jpg",
+      "source": "https://polyhaven.com/a/belfast_sunset_puresky",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "environment",
+      "bytes": 487792,
+      "modifications": "Resized official 8K tonemapped JPEG to 4096x2048 with macOS sips.",
+      "sourceMd5": "5313193c1b09d9776dd3395d08b6beee",
+      "sha256": "0bb2bcc67edb90a378aa032f10b8cedbdeb356333efaf7eac72391127c19b101"
+    },
+    {
+      "file": "earth-color.jpg",
+      "url": "https://extension.solarsystemscope.com/textures/download/2k_earth_daymap.jpg",
+      "source": "https://extension.solarsystemscope.com/textures/",
+      "author": "Solar System Scope / INOVE",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "None; downloaded 2K original.",
+      "bytes": 463087,
+      "sha256": "767ee1dc6eb3802699bfccf6f264880f8acd0b80de3191cd24984fe279b07b7c"
+    },
+    {
+      "file": "earth-clouds.jpg",
+      "url": "https://extension.solarsystemscope.com/textures/download/2k_earth_clouds.jpg",
+      "source": "https://extension.solarsystemscope.com/textures/",
+      "author": "Solar System Scope / INOVE",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "None; downloaded 2K original.",
+      "bytes": 965676,
+      "sha256": "fffd7f68d41b37274822150e54a6ef605af1d3ec35624d9f628c3b896bfa42ed"
+    },
+    {
+      "file": "earth-night.jpg",
+      "url": "https://extension.solarsystemscope.com/textures/download/2k_earth_nightmap.jpg",
+      "source": "https://extension.solarsystemscope.com/textures/",
+      "author": "Solar System Scope / INOVE",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "None; downloaded 2K original.",
+      "bytes": 255287,
+      "sha256": "c16fd1bc096ab91a5c5265c6ff9847c43f489f2e2ee790ccdbcbd03251cf3a5a"
+    },
+    {
+      "file": "stars-milkyway.jpg",
+      "url": "https://extension.solarsystemscope.com/textures/download/2k_stars_milky_way.jpg",
+      "source": "https://extension.solarsystemscope.com/textures/",
+      "author": "Solar System Scope / INOVE",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "None; downloaded 2K original.",
+      "bytes": 251454,
+      "sha256": "ec2240e6f3784d962ab81609b228bfd470e87c86d1fed5e99134d4cd3de24239"
+    },
+    {
+      "file": "RGBELoader.js",
+      "source": "https://github.com/mrdoob/three.js/blob/r160/examples/jsm/loaders/RGBELoader.js",
+      "license": "MIT",
+      "licenseFile": "THREE-LICENSE.txt",
+      "modifications": "ES module import/export converted to IIFE exposing THREE.RGBELoader."
+    },
+    {
+      "file": "fabric-color.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/scuba_suede/scuba_suede_diff_1k.jpg",
+      "md5": "afacab8f1c8dcc0d5f3c026b0c2e01f1",
+      "source": "https://polyhaven.com/a/scuba_suede",
+      "author": "Rico Cilliers / colormass",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "color",
+      "bytes": 784559
+    },
+    {
+      "file": "fabric-normal.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/scuba_suede/scuba_suede_nor_gl_1k.jpg",
+      "md5": "6fa818a8d12f1e4f1c804c63933a7a9e",
+      "source": "https://polyhaven.com/a/scuba_suede",
+      "author": "Rico Cilliers / colormass",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "normal",
+      "bytes": 903089
+    },
+    {
+      "file": "fabric-roughness.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/scuba_suede/scuba_suede_rough_1k.jpg",
+      "md5": "301502179f299e0858a4727faa51ef60",
+      "source": "https://polyhaven.com/a/scuba_suede",
+      "author": "Rico Cilliers / colormass",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "type": "roughness",
+      "bytes": 903324
+    }
+  ]
+}

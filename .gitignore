@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.openai/
+node_modules/
+__pycache__/
+*.pyc
+work/
+artifacts/
+Starship-Flight-Director*.html
+*.zip
+*.tar.gz

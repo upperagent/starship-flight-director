@@ -1,0 +1,26 @@
+{
+  "sourceBytes": 13742602,
+  "optimizedBytes": 4509780,
+  "map": {
+    "assets/v2/asphalt-color.jpg": "assets/v4/asphalt-color.webp",
+    "assets/v2/asphalt-normal.jpg": "assets/v4/asphalt-normal.webp",
+    "assets/v2/asphalt-roughness.jpg": "assets/v4/asphalt-roughness.webp",
+    "assets/v2/concrete-color.jpg": "assets/v4/concrete-color.webp",
+    "assets/v2/concrete-normal.jpg": "assets/v4/concrete-normal.webp",
+    "assets/v2/concrete-roughness.jpg": "assets/v4/concrete-roughness.webp",
+    "assets/v2/earth-clouds.jpg": "assets/v4/earth-clouds.webp",
+    "assets/v2/earth-color.jpg": "assets/v4/earth-color.webp",
+    "assets/v2/earth-night.jpg": "assets/v4/earth-night.webp",
+    "assets/v2/fabric-color.jpg": "assets/v4/fabric-color.webp",
+    "assets/v2/fabric-normal.jpg": "assets/v4/fabric-normal.webp",
+    "assets/v2/fabric-roughness.jpg": "assets/v4/fabric-roughness.webp",
+    "assets/v2/gravel-color.jpg": "assets/v4/gravel-color.webp",
+    "assets/v2/gravel-normal.jpg": "assets/v4/gravel-normal.webp",
+    "assets/v2/gravel-roughness.jpg": "assets/v4/gravel-roughness.webp",
+    "assets/v2/metal-color.jpg": "assets/v4/metal-color.webp",
+    "assets/v2/metal-normal.jpg": "assets/v4/metal-normal.webp",
+    "assets/v2/metal-roughness.jpg": "assets/v4/metal-roughness.webp",
+    "assets/v2/sky-sunset-4k.jpg": "assets/v4/sky-sunset-4k.webp",
+    "assets/v2/stars-milkyway.jpg": "assets/v4/stars-milkyway.webp"
+  }
+}
